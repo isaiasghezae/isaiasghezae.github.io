@@ -1,8 +1,7 @@
 project:
   type: website
   output-dir: docs
-  resources:
-    - CNAME
+
   
 website:
   title: "Isaias Ghezae"
