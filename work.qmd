@@ -31,13 +31,13 @@ Voelkel, J. G.\*, Stagnaro, M. N.\*, Chu, J.\*, Pink, S. L., Mernyk, J. S., Rede
 ::: {layout="[1, 3]" layout-valign="center"}
 ![](./files/work/cet.png){fig-alt="Decorative text" width="300" height="180"}
 
-How collective existential threat is implicated in the mental representations of immigrants and Americans. [Brief overview](https://isu21842.github.io/files/work/CET.html).
+How collective existential threat is implicated in the mental representations of immigrants and Americans. [Brief overview](/files/work/CET.html).
 :::
 
 ::: {layout="[1, 3]" layout-valign="center"}
 ![](./files/work/wave.png){fig-alt="Decorative text" width="250px"}
 
-The role of implicit and explicit group representations in trusting outgroup members. [Brief overview](https://isu21842.github.io/files/work/wave.html).
+The role of implicit and explicit group representations in trusting outgroup members. [Brief overview](/files/work/wave.html).
 :::
 
 Jan Voelkel and I created a Shiny web app that people can use to explore the results for the Strengthening Democracy Challenge. Check it out [here](https://www.strengtheningdemocracychallenge.org/results).
