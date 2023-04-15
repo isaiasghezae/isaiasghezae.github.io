@@ -18,7 +18,7 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/isaiasghezae/
     - icon: envelope
-      text: Contact me
+      text: Email
       href: mailto:ighezae@stanford.edu
 ---
 
