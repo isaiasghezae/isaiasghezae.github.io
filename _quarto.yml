@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Isaias Ghezae"
+  navbar:
+    left:
+      - href: about.qmd
+        text: About
+      - href: https://www.dropbox.com/s/ba1m79dtsnom4no/Ghezae_CV.pdf?dl=0
+        text: CV
+      - href: work.qmd
+        text: Academic Work
+format:
+  html:
+    theme: 
+      light: [flatly, theme_light_custom.scss]
+      dark: [darkly, theme_dark_custom.scss]
+    css: styles.css
+
+editor: visual
+
+
+
+
+
+
+
+
+
+
+
+

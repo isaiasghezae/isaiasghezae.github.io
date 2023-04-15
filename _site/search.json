@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "Academic Work",
+    "section": "",
+    "text": "Ghezae, I., & Yu, H. (2022). Folk Intuitions of Moral Standing to Blame. Available at SSRN 4109940. Online.\n\n\n\n\n\n\n\n\n\nVoelkel, J. G.*, Stagnaro, M. N.*, Chu, J.*, Pink, S. L., Mernyk, J. S., Redekopp, C., Ghezae, I., Cashman, M., Strengthening Democracy Challenge Finalists, Druckman, J., Rand, D. G., Willer, R. Megastudy identifying effective interventions to strengthen Americans’ democratic attitudes. Online."
+  },
+  {
+    "objectID": "work.html#preprints",
+    "href": "work.html#preprints",
+    "title": "Academic Work",
+    "section": "",
+    "text": "Ghezae, I., & Yu, H. (2022). Folk Intuitions of Moral Standing to Blame. Available at SSRN 4109940. Online.\n\n\n\n\n\n\n\n\n\nVoelkel, J. G.*, Stagnaro, M. N.*, Chu, J.*, Pink, S. L., Mernyk, J. S., Redekopp, C., Ghezae, I., Cashman, M., Strengthening Democracy Challenge Finalists, Druckman, J., Rand, D. G., Willer, R. Megastudy identifying effective interventions to strengthen Americans’ democratic attitudes. Online."
+  },
+  {
+    "objectID": "work.html#open-source-software",
+    "href": "work.html#open-source-software",
+    "title": "Academic Work",
+    "section": "Open-Source Software",
+    "text": "Open-Source Software\nGhezae, I. (2023). Unique Turker 2: Python Application for Researchers to Manage Worker Access to HITs on Amazon Mechanical Turk. GitHub. LibHunt."
+  },
+  {
+    "objectID": "work.html#general-audience-writing",
+    "href": "work.html#general-audience-writing",
+    "title": "Academic Work",
+    "section": "General Audience Writing",
+    "text": "General Audience Writing\nGhezae, I. (2020, October 1). The Social Media Outrage Machine. Santa Barbara Independent."
+  },
+  {
+    "objectID": "work.html#other-projects",
+    "href": "work.html#other-projects",
+    "title": "Academic Work",
+    "section": "Other Projects",
+    "text": "Other Projects\nSome other projects that I’ve led:\n\n\n\n\n\n\nHow collective existential threat is implicated in the mental representations of immigrants and Americans. Overview.\n\n\n\n\n\n\n\n\n\nThe role of implicit and explicit group representations in trusting outgroup members. Overview.\n\n\n\nJan Voelkel and I created an interactive Shiny web app that people can use to explore the results for the Strengthening Democracy Challenge. Check it out here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Isaias Ghezae",
+    "section": "",
+    "text": "Social Science Research Coordinator @ PASCL"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a Research Coordinator at the Polarization and Social Change Lab at Stanford University and a Research Affiliate at the Center for the Science of Moral Understanding.\nI graduated from the University of California, Santa Barbara in June 2022 with a B.S. in Psychological & Brain Sciences, where I was a Goldwater Scholar and a McNair Scholar.\nWhile at UC Santa Barbara, I worked with Dr. Daniel Conroy-Beam and with Dr. Hongbo Yu. I was also a BrainWave Fellow at Caltech’s Tianqiao and Chrissy Chen Institute for Neuroscience, working with Dr. Colin Camerer and his Behavioral and Neuroeconomics Group. Additionally, I was a 2021 participant in the Society for Personality and Social Psychology’s SPUR program."
+  }
+]

@@ -1,0 +1,25 @@
+---
+title: "Isaias Ghezae"
+image: images/headshot.png
+about:
+  template: jolla
+  image-width: 15em
+  image-shape: round
+  links:
+    - text: CV
+      href: https://www.dropbox.com/s/ba1m79dtsnom4no/Ghezae_CV.pdf?dl=0
+    - icon: github
+      text: Github
+      href: https://github.com/Isu21842
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/ghezae_isaias
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/isaiasghezae/
+    - icon: envelope
+      text: Contact me
+      href: mailto:ighezae@stanford.edu
+---
+
+Social Science Research Coordinator \@ PASCL
