@@ -14,14 +14,11 @@ website:
         text: Academic Work
 format:
   html:
-    theme: 
-      # light: [flatly, theme_light_custom.scss]
-      dark: [darkly, theme_dark_custom.scss]
+    theme: [darkly, theme_dark_custom.scss] 
+    # alternative theming -- dark: [darkly, theme_dark_custom.scss] light: [flatly, theme_light_custom.scss]
     css: styles.css
 
 editor: visual
-
-
 
 
 
