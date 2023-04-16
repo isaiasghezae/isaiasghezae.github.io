@@ -15,7 +15,7 @@ website:
 format:
   html:
     theme: 
-      light: [flatly, theme_light_custom.scss]
+      # light: [flatly, theme_light_custom.scss]
       dark: [darkly, theme_dark_custom.scss]
     css: styles.css
 
