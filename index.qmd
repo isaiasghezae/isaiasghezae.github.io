@@ -6,10 +6,8 @@ about:
   image-width: 15em
   image-shape: round
   links:
-    - text: CV
-      href: https://www.dropbox.com/s/ba1m79dtsnom4no/Ghezae_CV.pdf?dl=0
     - icon: github
-      text: Github
+      text: GitHub
       href: https://github.com/Isu21842
     - icon: twitter
       text: Twitter
