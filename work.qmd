@@ -7,7 +7,7 @@ title: "Academic Work"
 ::: {layout="[1, 3]" layout-valign="center"}
 ![](./files/work/stb.png){fig-alt="Decorative text" width="225"}
 
-**Ghezae, I.**, & Yu, H. (2022). Folk Intuitions of Moral Standing to Blame. Available at SSRN 4109940. [Online](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4109940).
+**Ghezae, I.**, & Yu, H. (2022). Folk intuitions of moral standing to blame. Available at SSRN 4109940. [Online](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4109940).
 :::
 
 ::: {layout="[1, 3]" layout-valign="center"}
@@ -18,7 +18,7 @@ Voelkel, J. G.\*, Stagnaro, M. N.\*, Chu, J.\*, Pink, S. L., Mernyk, J. S., Rede
 
 ## [Open-Source Software]{style="color:#a38e79"}
 
-**Ghezae, I.** (2023). Unique Turker 2: Python Application for Researchers to Manage Worker Access to HITs on Amazon Mechanical Turk. [GitHub](https://github.com/Isu21842/unique-turker-2). [LibHunt](https://www.libhunt.com/r/unique-turker-2).
+**Ghezae, I.** (2023). Unique Turker 2: Python application for researchers to manage worker access to HITs on Amazon Mechanical Turk. [GitHub](https://github.com/Isu21842/unique-turker-2). [LibHunt](https://www.libhunt.com/r/unique-turker-2).
 
 ## [General Audience Writing]{style="color:#a38e79"}
 
