@@ -40,4 +40,4 @@ How collective existential threat is implicated in the mental representations of
 The role of implicit and explicit group representations in trusting outgroup members. [Brief overview](/files/work/wave.html).
 :::
 
-Jan Voelkel and I created a Shiny web app that people can use to explore the results for the Strengthening Democracy Challenge. Check it out [here](https://www.strengtheningdemocracychallenge.org/results).
+Jan Voelkel and I created a Shiny web app for people to easily view the main results of the Strengthening Democracy Challenge. Check it out [here](https://www.strengtheningdemocracychallenge.org/results).
