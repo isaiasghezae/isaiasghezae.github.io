@@ -16,6 +16,54 @@ title: "Academic Work"
 Voelkel, J. G.\*, Stagnaro, M. N.\*, Chu, J.\*, Pink, S. L., Mernyk, J. S., Redekopp, C., **Ghezae, I.**, Cashman, M., Strengthening Democracy Challenge Finalists, Druckman, J., Rand, D. G., Willer, R. Megastudy identifying effective interventions to strengthen Americans' democratic attitudes. [Online](https://osf.io/y79u5/).
 :::
 
+::: {layout="[2, 2]" layout-valign="center"}
+**Ghezae, I.**, Conroy-Beam, D., Pietraszewski, D. (in prep). Modeling the social and cognitive processes necessary to produce perceptions of race.
+
+```{r, warning=FALSE,message=FALSE, echo=FALSE, fig.width=2, fig.height=0.75}
+library(reshape2)
+library(tidyverse)
+library(tidymodels)
+library(plotly)
+library(kernlab)
+library(pracma) #For meshgrid()
+data(iris)
+
+mesh_size <- .02
+margin <- 0
+X <- iris %>% select(Sepal.Width, Sepal.Length)
+y <- iris %>% select(Petal.Width)
+
+model <- svm_rbf(cost = 1.0) %>% 
+  set_engine("kernlab") %>% 
+  set_mode("regression") %>% 
+  fit(Petal.Width ~ Sepal.Width + Sepal.Length, data = iris)
+
+x_min <- min(X$Sepal.Width) - margin
+x_max <- max(X$Sepal.Width) - margin
+y_min <- min(X$Sepal.Length) - margin
+y_max <- max(X$Sepal.Length) - margin
+xrange <- seq(x_min, x_max, mesh_size)
+yrange <- seq(y_min, y_max, mesh_size)
+xy <- meshgrid(x = xrange, y = yrange)
+xx <- xy$X
+yy <- xy$Y
+dim_val <- dim(xx)
+xx1 <- matrix(xx, length(xx), 1)
+yy1 <- matrix(yy, length(yy), 1)
+final <- cbind(xx1, yy1)
+pred <- model %>%
+  predict(final)
+
+pred <- pred$.pred
+pred <- matrix(pred, dim_val[1], dim_val[2])
+
+fig <- plot_ly(iris, x = ~Sepal.Width, y = ~Sepal.Length, z = ~Petal.Width ) %>% 
+  add_markers(size = 5) %>% 
+  add_surface(x=xrange, y=yrange, z=pred, alpha = 0.65, type = 'mesh3d', name = 'pred_surface')
+fig
+```
+:::
+
 ## [Open-Source Software]{style="color:#a38e79"}
 
 **Ghezae, I.** (2023). Unique Turker 2: Python application for researchers to manage worker access to HITs on Amazon Mechanical Turk. [GitHub](https://github.com/Isu21842/unique-turker-2). [LibHunt](https://www.libhunt.com/r/unique-turker-2).
@@ -29,7 +77,7 @@ Voelkel, J. G.\*, Stagnaro, M. N.\*, Chu, J.\*, Pink, S. L., Mernyk, J. S., Rede
 *Some other projects that I've led:*
 
 ::: {layout="[1, 3]" layout-valign="center"}
-![](./files/work/cet.png){fig-alt="Decorative text" width="300" height="180"}
+![](./files/work/cet.png){fig-alt="Decorative text" width="250px"}
 
 How collective existential threat is implicated in the mental representations of immigrants and Americans. [Brief overview](/files/work/cet.html). [Talk](https://www.youtube.com/watch?v=_nwjXtL0OPo).
 :::
@@ -40,4 +88,8 @@ How collective existential threat is implicated in the mental representations of
 The role of implicit and explicit group representations in trusting outgroup members. [Brief overview](/files/work/wave.html).
 :::
 
+::: {layout="[3, 1]" layout-valign="center"}
 Jan Voelkel and I created a Shiny web app for people to easily view the main results of the Strengthening Democracy Challenge. Check it out [here](https://www.strengtheningdemocracychallenge.org/results).
+
+![](./files/work/shinysdc.png){fig-alt="Decorative text" width="250px"}
+:::
