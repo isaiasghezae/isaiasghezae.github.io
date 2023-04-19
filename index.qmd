@@ -2,7 +2,7 @@
 title: "Isaias Ghezae"
 image: images/headshot.png
 about:
-  template: jolla
+  template: trestles
   image-width: 15em
   image-shape: round
   links:
@@ -12,12 +12,13 @@ about:
     - icon: twitter
       text: Twitter
       href: https://twitter.com/ghezae_isaias
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/isaiasghezae/
     - icon: envelope
       text: Email
       href: mailto:ighezae@stanford.edu
 ---
 
-Social Science Research Coordinator \@ PASCL
+I'm a Research Coordinator at the [Polarization and Social Change Lab](https://www.pascl.stanford.edu/) at Stanford University and a Research Affiliate at the [Center for the Science of Moral Understanding](https://www.moralunderstanding.com/).
+
+I graduated from the University of California, Santa Barbara in June 2022 with a B.S. in Psychological & Brain Sciences, where I was a [Goldwater Scholar](https://goldwaterscholarship.gov/) and a [McNair Scholar](https://mcnairscholars.com/about/).
+
+While at UC Santa Barbara I mainly worked with Dr. Daniel Conroy-Beam and Dr. Hongbo Yu. I spent a summer as a [BrainWAVE Fellow](https://neuroscience.caltech.edu/education/brainwave-fellowship-program/brainwave-fellows-2021) at Caltech's [Tianqiao and Chrissy Chen Institute for Neuroscience](https://neuroscience.caltech.edu/), working with Dr. Colin Camerer and his Behavioral and Neuroeconomics Group. I was also a 2021 participant in the Society for Personality and Social Psychology's [SPUR](https://spsp.org/professional-development/training-programs/social-personality-undergraduate-research-spur-program) program.

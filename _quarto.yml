@@ -6,8 +6,8 @@ website:
   title: "Isaias Ghezae"
   navbar:
     left:
-      - href: about.qmd
-        text: About
+      # - href: about.qmd
+      #   text: About
       - href: https://www.dropbox.com/s/ba1m79dtsnom4no/Ghezae_CV.pdf?dl=0
         text: CV
       - href: work.qmd
