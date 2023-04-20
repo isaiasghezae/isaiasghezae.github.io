@@ -2,7 +2,9 @@
 title: "Academic Work"
 ---
 
-## [Preprints]{style="color:#a38e79"}
+::: large-text
+[**Preprints**]{style="color:#a38e79"}
+:::
 
 ::: {layout="[1, 3]" layout-valign="center"}
 ![](./files/work/stb.png){fig-alt="Decorative text" width="225"}
@@ -64,15 +66,22 @@ fig
 ```
 :::
 
-## [Open-Source Software]{style="color:#a38e79"}
+::: large-text
+[**Open-Source Software**]{style="color:#a38e79"}
+:::
+
 
 **Ghezae, I.** (2023). Unique Turker 2: Python application for researchers to manage worker access to HITs on Amazon Mechanical Turk. [GitHub](https://github.com/Isu21842/unique-turker-2). [LibHunt](https://www.libhunt.com/r/unique-turker-2).
 
-## [General Audience Writing]{style="color:#a38e79"}
+::: large-text
+[**General Audience Writing**]{style="color:#a38e79"}
+:::
 
 **Ghezae, I.** (2020, October 1). [The Social Media Outrage Machine](https://www.independent.com/2020/10/01/the-social-media-outrage-machine/). Santa Barbara Independent.
 
-## [Other Projects]{style="color:#a38e79"}
+::: large-text
+[**Other Projects**]{style="color:#a38e79"}
+:::
 
 *Some other projects that I've led:*
 
