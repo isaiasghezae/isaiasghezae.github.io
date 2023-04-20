@@ -19,7 +19,7 @@ Voelkel, J. G.\*, Stagnaro, M. N.\*, Chu, J.\*, Pink, S. L., Mernyk, J. S., Rede
 ::: {layout="[2, 2]" layout-valign="center"}
 **Ghezae, I.**, Conroy-Beam, D., Pietraszewski, D. (in prep). Modeling the social and cognitive processes necessary to produce perceptions of race.
 
-```{r, warning=FALSE,message=FALSE, echo=FALSE, fig.width=2, fig.height=0.75}
+```{r, warning=FALSE,message=FALSE, echo=FALSE, fig.width=1, fig.height=0.375}
 library(reshape2)
 library(tidyverse)
 library(tidymodels)
