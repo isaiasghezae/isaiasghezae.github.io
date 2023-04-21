@@ -2,9 +2,9 @@
 title: "Isaias Ghezae"
 image: images/headshot.png
 about:
-  template: trestles
+  template: solana
   image-width: 15em
-  image-shape: round
+  # image-shape: round
   links:
     - icon: github
       text: GitHub
@@ -21,4 +21,4 @@ I'm a Research Coordinator at the [Polarization and Social Change Lab](https://w
 
 In June 2022, I earned a B.S. in Psychological & Brain Sciences from the University of California, Santa Barbara, where I was a [Barry Goldwater Scholar](https://goldwaterscholarship.gov/) and a [McNair Scholar](https://mcnairscholars.com/about/).
 
-While at UC Santa Barbara I mainly worked with Dr. Daniel Conroy-Beam and Dr. Hongbo Yu. I spent a summer as a BrainWAVE Fellow at Caltech's [Tianqiao and Chrissy Chen Institute for Neuroscience](https://neuroscience.caltech.edu/), working with Dr. Colin Camerer and his Behavioral and Neuroeconomics Group. I am also a previous participant of the Society for Personality and Social Psychology's [SPUR](https://spsp.org/professional-development/training-programs/social-personality-undergraduate-research-spur-program) program.
+While at UC Santa Barbara I mainly worked with Dr. Daniel Conroy-Beam and Dr. Hongbo Yu. I spent a summer as a BrainWAVE Fellow at Caltech's [Tianqiao and Chrissy Chen Institute for Neuroscience](https://neuroscience.caltech.edu/), where I worked with Dr. Colin Camerer and his Behavioral and Neuroeconomics Group. I am also a previous participant of the Society for Personality and Social Psychology's [SPUR](https://spsp.org/professional-development/training-programs/social-personality-undergraduate-research-spur-program) program.

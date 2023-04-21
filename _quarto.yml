@@ -12,7 +12,8 @@ website:
         text: Academic Work
 format:
   html:
-    theme: [darkly, theme_dark_custom.scss] 
+    theme: 
+      light: [flatly, theme_light_custom.scss] 
     # alternative theming -- dark: [darkly, theme_dark_custom.scss] light: [flatly, theme_light_custom.scss]
     css: custom.css
 
