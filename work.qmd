@@ -112,3 +112,11 @@ Jan Voelkel and I developed a Shiny web app for people to easily view the main r
 
 ![](./files/work/shinysdc.png){fig-alt="Decorative text" width="300"}
 :::
+
+::: large-text
+[**Favorite Papers**]{style="color:#a38e79"}
+:::
+
+-   Opinion cascades and the unpredictability of partisan polarization. [Paper](https://www.science.org/doi/full/10.1126/sciadv.aax0754).
+
+-   Toward a computational theory of social groups: A finite set of cognitive primitives for representing any and all social groups in the context of conflict. [Paper](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/toward-a-computational-theory-of-social-groups-a-finite-set-of-cognitive-primitives-for-representing-any-and-all-social-groups-in-the-context-of-conflict/1C28965AE6F94B9060A20C1DB8EA2A80).
