@@ -13,7 +13,7 @@ title: "Academic Work"
 :::
 
 ::: {layout="[1.5, 2.5]" layout-valign="center"}
-![](./files/work/sdc.png){fig-alt="Decorative text" width="300"}
+![](./files/work/sdc2.png){fig-alt="Decorative text" width="300"}
 
 Voelkel, J. G.\*, Stagnaro, M. N.\*, Chu, J.\*, Pink, S. L., Mernyk, J. S., Redekopp, C., **Ghezae, I.**, Cashman, M., Strengthening Democracy Challenge Finalists, Druckman, J., Rand, D. G., Willer, R. Megastudy identifying effective interventions to strengthen Americans' democratic attitudes. [Online](https://osf.io/y79u5/).
 :::
