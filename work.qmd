@@ -52,6 +52,7 @@ plot_ly() %>%
     text = agent_group
   ) %>%
   layout(
+    title = list(text = "Interactive 3-D Plot"), 
     scene = list(
       xaxis = list(title = "Trait 1"),
       yaxis = list(title = "Trait 2"),
