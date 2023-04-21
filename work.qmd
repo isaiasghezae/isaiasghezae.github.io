@@ -15,11 +15,11 @@ title: "Academic Work"
 ::: {layout="[1.5, 2.5]" layout-valign="center"}
 ![](./files/work/sdc2.png){fig-alt="Decorative text" width="300"}
 
-Voelkel, J. G.\*, Stagnaro, M. N.\*, Chu, J.\*, Pink, S. L., Mernyk, J. S., Redekopp, C., **Ghezae, I.**, Cashman, M., Strengthening Democracy Challenge Finalists, Druckman, J., Rand, D. G., Willer, R. Megastudy identifying effective interventions to strengthen Americans' democratic attitudes. [Online](https://osf.io/y79u5/).
+Voelkel, J. G.\*, Stagnaro, M. N.\*, Chu, J.\*, Pink, S. L., Mernyk, J. S., Redekopp, C., **Ghezae, I.**, Cashman, M., Strengthening Democracy Challenge Finalists, Druckman, J., Rand, D. G., & Willer, R. Megastudy identifying effective interventions to strengthen Americans' democratic attitudes. [Online](https://osf.io/y79u5/).
 :::
 
 ::: {layout="[1.5, 2.5]" layout-valign="center"}
-**Ghezae, I.**, Conroy-Beam, D., Pietraszewski, D. (in prep). Modeling the social and cognitive processes necessary to produce perceptions of race.
+**Ghezae, I.**, Conroy-Beam, D., & Pietraszewski, D. (in prep). Modeling the social and cognitive processes necessary to produce perceptions of race.
 
 ```{r, warning=FALSE,message=FALSE, echo=FALSE, fig.width=2, fig.height=1}
 agents <- read.csv("agents.csv")
