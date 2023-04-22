@@ -2,6 +2,10 @@
 title: "Academic Work"
 ---
 
+My research interests lie at the intersection of intergroup cognition, moral psychology, and political psychology. I am particularly focused on exploring two key aspects: 1) the ways in which people perceive and understand group membership, and 2) the formation of social beliefs and behaviors, with an emphasis on how group motivations may influence these processes.
+
+Additionally, I am committed to leveraging social science research to explore and resolve real-world issues. To this end, I plan to employ a diverse range of methodologies, drawing from social psychology, cognitive science, behavioral economics, and computational social science.
+
 ::: large-text
 [**Preprints**]{style="color:#a38e79"}
 :::
