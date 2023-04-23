@@ -108,7 +108,7 @@ How collective existential threat is implicated in the mental representations of
 ::: {layout="[1.5, 2.5]" layout-valign="center"}
 ![](./files/work/wave.png){fig-alt="Decorative text" width="300"}
 
-The role of implicit and explicit group representations in trusting outgroup members. [Brief overview](/files/work/wave.html).
+The role of phenotypic prototypicality in updating group representations. [Brief overview](/files/work/wave.html).
 :::
 
 ::: {layout="[1.5, 2.5]" layout-valign="center"}
