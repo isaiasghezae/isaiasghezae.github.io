@@ -114,6 +114,8 @@ The role of phenotypic prototypicality in updating group representations. [Brief
 
 Jan Voelkel and I developed a Shiny web app for people to easily view the main results of the Strengthening Democracy Challenge. Check it out [here](https://www.strengtheningdemocracychallenge.org/results).
 :::
+
+```{=html}
 <!--
 ::: large-text
 [**Favorite Papers**]{style="color:#a38e79"}
@@ -123,3 +125,4 @@ Jan Voelkel and I developed a Shiny web app for people to easily view the main r
 
 -   Toward a computational theory of social groups: A finite set of cognitive primitives for representing any and all social groups in the context of conflict. [Paper](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/toward-a-computational-theory-of-social-groups-a-finite-set-of-cognitive-primitives-for-representing-any-and-all-social-groups-in-the-context-of-conflict/1C28965AE6F94B9060A20C1DB8EA2A80).
 -->
+```
