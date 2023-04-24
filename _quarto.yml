@@ -6,7 +6,7 @@ website:
   title: "Isaias Ghezae"
   navbar:
     left:
-      - href: https://www.dropbox.com/s/ba1m79dtsnom4no/Ghezae_CV.pdf?dl=0
+      - href: cv.qmd
         text: CV
       - href: work.qmd
         text: Academic Work

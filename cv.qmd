@@ -1,0 +1,48 @@
+---
+title: "Curriculum Vitae"
+tbl-colwidths: [25, 75]
+---
+
+::: large-text
+[**Full CV**](https://www.dropbox.com/s/ba1m79dtsnom4no/Ghezae_CV.pdf?dl=0)
+:::
+
+## Abbreviated CV
+
+### Education
+
++---------------+-----------------------------------------------------------------+
+| **2018-2022** | **University of California, Santa Barbara** (UCSB)**\           |
+|               | B.S., Psychological & Brain Sciences**\                         |
+|               | Highest Honors (GPA: 3.96/4.00)\                                |
+|               | Thesis: *A sufficiency test of the alliance hypothesis of race* |
++---------------+-----------------------------------------------------------------+
+
+### Employment
+
++------------------+------------------------------------------+
+| **2022-Present** | **Social Science Research Coordinator\   |
+|                  | **Stanford University\                   |
+|                  | Dept. of Philanthropy and Civil Society\ |
+|                  | Supervisor: Dr. Robb Willer              |
++------------------+------------------------------------------+
+
+### Selected Honors, Fellowships, and Awards
+
++------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2022 | Clyde Woods Award (UCSB McNair Scholars Program)                                                                                                                  |
+|      |                                                                                                                                                                   |
+|      | *Awarded to a graduating McNair Scholar whose demonstrated research excellence and significant commitment to the McNair program.*                                 |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2022 | Morgan Award for Research Promise (UCSB Dept. of Psychological & Brain Sciences)                                                                                  |
+|      |                                                                                                                                                                   |
+|      | *Awarded to graduating seniors who demonstrate the most promise in the area of experimental research in psychology.*                                              |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2021 | Barry M. Goldwater Scholarship                                                                                                                                    |
+|      |                                                                                                                                                                   |
+|      | *Highly competitive national scholarship awarded to undergraduates pursuing STEM research.*                                                                       |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2021 | Chen Institute BrainWAVE Fellowship                                                                                                                               |
+|      |                                                                                                                                                                   |
+|      | *Selected from a national pool of undergraduates to participate in a 10-week research program at Caltech's Tianqiao and Chrissy Chen Institute for Neuroscience.* |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
