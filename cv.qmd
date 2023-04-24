@@ -30,13 +30,13 @@ tbl-colwidths: [25, 75]
 ### Selected Honors, Fellowships, and Awards
 
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2022     | Clyde Woods Award (UCSB McNair Scholars Program)                                                                                                                  |
-|          |                                                                                                                                                                   |
-|          | *Awarded to a graduating McNair Scholar whose demonstrated research excellence and significant commitment to the McNair program.*                                 |
-+----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 2022     | Morgan Award for Research Promise (UCSB Dept. of Psychological & Brain Sciences)                                                                                  |
 |          |                                                                                                                                                                   |
 |          | *Awarded to graduating seniors who demonstrate the most promise in the area of experimental research in psychology.*                                              |
++----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2022     | Clyde Woods Award (UCSB McNair Scholars Program)                                                                                                                  |
+|          |                                                                                                                                                                   |
+|          | *Awarded to a graduating McNair Scholar whose demonstrated research excellence and significant commitment to the McNair program.*                                 |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 2021     | Barry M. Goldwater Scholarship                                                                                                                                    |
 |          |                                                                                                                                                                   |
