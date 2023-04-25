@@ -8,7 +8,7 @@ about:
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/Isu21842
+      href: https://github.com/isaiasghezae
     - icon: twitter
       text: Twitter
       href: https://twitter.com/ghezae_isaias

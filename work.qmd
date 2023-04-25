@@ -83,7 +83,7 @@ plot_ly() %>%
 [**Open-Source Software**]{style="color:#a38e79"}
 :::
 
-**Ghezae, I.** (2023). Unique Turker 2: Python application for researchers to manage worker access to HITs on Amazon Mechanical Turk. [GitHub](https://github.com/Isu21842/unique-turker-2). [LibHunt](https://www.libhunt.com/r/unique-turker-2).
+**Ghezae, I.** (2023). Unique Turker 2: Python application for researchers to manage worker access to HITs on Amazon Mechanical Turk. [GitHub](https://github.com/isaiasghezae/unique-turker-2). [LibHunt](https://www.libhunt.com/r/unique-turker-2).
 
 ::: large-text
 [**Science Communication**]{style="color:#a38e79"}
