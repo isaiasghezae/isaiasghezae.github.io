@@ -2,23 +2,23 @@
 title: "Isaias Ghezae"
 image: images/headshot.png
 about:
-  template: solana
-  image-width: 15em
-  # image-shape: round
-  links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/isaiasghezae
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/ghezae_isaias
-    - icon: envelope
-      text: Email
-      href: mailto:ighezae@stanford.edu
+  template: jolla
+  image-width: 17em
+  image-shape: round
+  # links:
+  #   - icon: github
+  #     text: GitHub
+  #     href: https://github.com/isaiasghezae
+  #   - icon: twitter
+  #     text: Twitter
+  #     href: https://twitter.com/ghezae_isaias
+  #   - icon: envelope
+  #     text: Email
+  #     href: mailto:ighezae@stanford.edu
 ---
 
-I'm a Research Coordinator at the [Polarization and Social Change Lab](https://www.pascl.stanford.edu/) at Stanford University and a Research Affiliate at the [Center for the Science of Moral Understanding](https://www.moralunderstanding.com/).
-
-In June 2022, I earned a B.S. in Psychological & Brain Sciences from the University of California, Santa Barbara.
+::: {.a style="text-align: left"}
+I'm a Research Coordinator at the [Polarization and Social Change Lab](https://www.pascl.stanford.edu/) at Stanford University and a Research Affiliate at the [Center for the Science of Moral Understanding](https://www.moralunderstanding.com/). I graduated from the University of California, Santa Barbara in June 2022 with a B.S. in Psychological & Brain Sciences.
 
 While at UC Santa Barbara I mainly worked with [Dr. Daniel Conroy-Beam](https://psych.ucsb.edu/people/faculty/daniel-conroy-beam) and [Dr. Hongbo Yu](https://psych.ucsb.edu/people/faculty/hongbo-yu). I spent a summer as a BrainWAVE Fellow at Caltech's Tianqiao and Chrissy Chen Institute for Neuroscience, where I worked full-time with [Dr. Colin Camerer](https://www.hss.caltech.edu/people/colin-f-camerer) and his Behavioral and Neuroeconomics Group. I am also a previous participant of the Society for Personality and Social Psychology's [SPUR](https://spsp.org/professional-development/training-programs/social-personality-undergraduate-research-spur-program) program.
+:::

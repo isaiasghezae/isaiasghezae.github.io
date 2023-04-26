@@ -10,6 +10,14 @@ website:
         text: CV
       - href: work.qmd
         text: Academic Work
+    right:
+      - icon: github
+        href: https://github.com/isaiasghezae
+      - icon: twitter
+        href: https://twitter.com/ghezae_isaias
+      - icon: envelope
+        href: mailto:ighezae@stanford.edu
+      
 format:
   html:
     theme: 
