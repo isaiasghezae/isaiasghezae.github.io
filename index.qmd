@@ -17,14 +17,21 @@
   #     href: mailto:ighezae@stanford.edu
 ---
 
-::: {layout="[1.5, 3]" layout-valign="center"}
-![](images/headshot.png){fig-alt="Decorative text" width="300"}
+::: {layout="[1.5, 3]" layout-valign="top" style="padding-top: 40px;"}
+::: a
+![](images/headshot.png){fig-alt="Isaias Ghezae's headshot" fig-caption="Isaias Ghezae" width="300" style="padding-bottom:0px"}
 
-::: {.a style="text-align: left"}
-::: {.large-text style="padding-top: 40px;"}
-**Isaias Ghezae**
+::: {.c style="text-align: center; font-size: 30px; padding-top:0px"}
+Isaias Ghezae
+:::
+:::
+
+::: {.b style="text-align: left"}
+::: less-large-text
+👋**Hi there!**
 :::
 
 I'm a Research Coordinator at the [Polarization and Social Change Lab](https://www.pascl.stanford.edu/) at Stanford University and a Research Affiliate at the [Center for the Science of Moral Understanding](https://www.moralunderstanding.com/). I graduated from the University of California, Santa Barbara in June 2022 with a B.S. in Psychological & Brain Sciences. <br><br> While at UC Santa Barbara I mainly worked with [Dr. Daniel Conroy-Beam](https://psych.ucsb.edu/people/faculty/daniel-conroy-beam) and [Dr. Hongbo Yu](https://psych.ucsb.edu/people/faculty/hongbo-yu). I spent a summer as a BrainWAVE Fellow at Caltech's Tianqiao and Chrissy Chen Institute for Neuroscience, where I worked full-time with [Dr. Colin Camerer](https://www.hss.caltech.edu/people/colin-f-camerer) and his Behavioral and Neuroeconomics Group. I am also a previous participant of the Society for Personality and Social Psychology's [SPUR](https://spsp.org/professional-development/training-programs/social-personality-undergraduate-research-spur-program) program.
 :::
+
 :::
