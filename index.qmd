@@ -17,7 +17,7 @@
   #     href: mailto:ighezae@stanford.edu
 ---
 
-::: {layout="[1.5, 3]" layout-valign="top" style="padding-top: 40px;" style="text-align:center"}
+::: {layout="[2, 4]" layout-valign="top" style="padding-top: 40px;" style="text-align:center"}
 ::: a
 ![](images/headshot.png){fig-alt="Isaias Ghezae's headshot" width="300" style="padding-bottom:8px"}
 
