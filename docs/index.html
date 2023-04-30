@@ -20,40 +20,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
@@ -170,12 +136,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div>
 <p>I’m a Research Coordinator at the <a href="https://www.pascl.stanford.edu/">Polarization and Social Change Lab</a> at Stanford University and a Research Affiliate at the <a href="https://www.moralunderstanding.com/">Center for the Science of Moral Understanding</a>. I graduated from the University of California, Santa Barbara in June 2022 with a B.S. in Psychological &amp; Brain Sciences. <br><br> While at UC Santa Barbara I mainly worked with <a href="https://psych.ucsb.edu/people/faculty/daniel-conroy-beam">Dr.&nbsp;Daniel Conroy-Beam</a> and <a href="https://psych.ucsb.edu/people/faculty/hongbo-yu">Dr.&nbsp;Hongbo Yu</a>. I spent a summer as a BrainWAVE Fellow at Caltech’s Tianqiao and Chrissy Chen Institute for Neuroscience, where I worked full-time with <a href="https://www.hss.caltech.edu/people/colin-f-camerer">Dr.&nbsp;Colin Camerer</a> and his Behavioral and Neuroeconomics Group. I am also a previous participant of the Society for Personality and Social Psychology’s <a href="https://spsp.org/professional-development/training-programs/social-personality-undergraduate-research-spur-program">SPUR</a> program.</p>
 </div>
-</div>
-</div>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>about <span class="sc">%&gt;%</span> <span class="fu">pull</span>(current_position) <span class="sc">%&gt;%</span> <span class="fu">cat</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>Current Position: Social Science Research Coordinator @ PASCL</code></pre>
 </div>
 </div>
 
