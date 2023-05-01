@@ -36,11 +36,11 @@ tbl-colwidths: [25, 75]
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 2021     | Barry M. Goldwater Scholarship                                                                                                                                    |
 |          |                                                                                                                                                                   |
-|          | *Highly competitive national scholarship awarded to undergraduates pursuing STEM research.*                                                                       |
+|          | *Highly competitive national scholarship awarded to undergraduates pursuing STEM research as a career.*                                                           |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 2021     | Sharon Stephens Brehm Scholarship (American Psychological Foundation)                                                                                             |
 |          |                                                                                                                                                                   |
-|          | *Awarded to undergraduates who demonstrate commitment to the field of psychology.*                                                                                |
+|          | *Awarded to undergraduates who demonstrate exceptional commitment to the field of psychology.*                                                                    |
 +----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 2021     | Chen Institute BrainWAVE Fellowship                                                                                                                               |
 |          |                                                                                                                                                                   |
