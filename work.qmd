@@ -2,7 +2,7 @@
 title: "Academic Work"
 ---
 
-My research interests are broadly focused on `moral and political psychology`, with an emphasis on how group motivations may influence these processes. Additionally, I continue to be interested in research on cultural evolution and complex systems. To investigate these topics, I use methods from social psychology, cognitive science, and computational social science.
+My research interests are broadly focused on `moral and political psychology`, with an emphasis on how group motivations may influence these processes. I have secondary interests in `cultural evolution` and `complex systems`, especially as it relates to the study of belief systems. To investigate these topics, I use methods from social psychology, cognitive science, and computational social science.
 
 ::: large-text
 [**Preprints**]{style="color:#a38e79"}

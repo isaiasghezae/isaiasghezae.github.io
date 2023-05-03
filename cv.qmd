@@ -29,20 +29,20 @@ tbl-colwidths: [25, 75]
 
 ### Selected Honors, Fellowships, and Awards
 
-+----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2022     | Morgan Award for Research Promise (UCSB Dept. of Psychological & Brain Sciences)                                                                                  |
-|          |                                                                                                                                                                   |
-|          | *Awarded to graduating seniors who demonstrate the most promise in the area of experimental research in psychology, as selected by faculty.*                      |
-+----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2021     | Barry M. Goldwater Scholarship                                                                                                                                    |
-|          |                                                                                                                                                                   |
-|          | *Highly competitive national scholarship awarded to undergraduates pursuing STEM research as a career.*                                                           |
-+----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2021     | Sharon Stephens Brehm Scholarship (American Psychological Foundation)                                                                                             |
-|          |                                                                                                                                                                   |
-|          | *Awarded to undergraduates who demonstrate exceptional commitment to the field of psychology.*                                                                    |
-+----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2021     | Chen Institute BrainWAVE Fellowship                                                                                                                               |
-|          |                                                                                                                                                                   |
-|          | *Selected from a national pool of undergraduates to participate in a 10-week research program at Caltech's Tianqiao and Chrissy Chen Institute for Neuroscience.* |
-+----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2022 | Morgan Award for Research Promise (UCSB Dept. of Psychological & Brain Sciences)                                                                                  |
+|      |                                                                                                                                                                   |
+|      | *Awarded to graduating seniors who demonstrate the most promise in the area of experimental research in psychology, as selected by faculty.*                      |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2021 | Barry M. Goldwater Scholarship                                                                                                                                    |
+|      |                                                                                                                                                                   |
+|      | *Highly competitive national scholarship awarded to undergraduates pursuing STEM research as a career.*                                                           |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2021 | Sharon Stephens Brehm Scholarship (American Psychological Foundation)                                                                                             |
+|      |                                                                                                                                                                   |
+|      | *Awarded to undergraduates who demonstrate exceptional commitment to the field of psychology.*                                                                    |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2021 | Chen Institute BrainWAVE Fellowship                                                                                                                               |
+|      |                                                                                                                                                                   |
+|      | *Selected from a national pool of undergraduates to participate in a 10-week research program at Caltech's Tianqiao and Chrissy Chen Institute for Neuroscience.* |
++------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
