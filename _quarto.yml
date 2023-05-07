@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Isaias Ghezae"
+  favicon: images/favicon.png
   navbar:
     left:
       - href: cv.qmd
@@ -23,8 +24,9 @@ format:
     theme: 
       light: [flatly, theme_light_custom.scss] 
     # alternative theming -- dark: [darkly, theme_dark_custom.scss] light: [flatly, theme_light_custom.scss]
-    css: custom.css
-
+    css:
+      - custom.css
+      
 editor: visual
 
 
