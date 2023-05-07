@@ -1,0 +1,7 @@
+/* Mobile Styles */
+@media only screen and (max-width: 600px) {
+  .center-image-mobile {
+    display: flex;
+    justify-content: center;
+  }
+}

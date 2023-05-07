@@ -18,7 +18,7 @@
 ---
 
 ::: {layout="[2, 4]" layout-valign="top" style="padding-top: 40px;" style="text-align:center"}
-::: a
+::: a.center-image-mobile
 ![](images/headshot.png){fig-alt="Isaias Ghezae's headshot" width="300" style="padding-bottom:8px"}
 
 ::: {.c style="text-align: center; font-size: 30px; padding-top:0px"}

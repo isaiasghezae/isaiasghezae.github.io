@@ -26,6 +26,7 @@ format:
     # alternative theming -- dark: [darkly, theme_dark_custom.scss] light: [flatly, theme_light_custom.scss]
     css:
       - custom.css
+      - styles.css
       
 editor: visual
 
