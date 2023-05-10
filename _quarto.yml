@@ -14,8 +14,10 @@ website:
     right:
       - icon: github
         href: https://github.com/isaiasghezae
+        target: _blank
       - icon: twitter
         href: https://twitter.com/ghezae_isaias
+        target: _blank
       - icon: envelope
         href: mailto:ighezae@stanford.edu
       
@@ -26,6 +28,9 @@ format:
     # alternative theming -- dark: [darkly, theme_dark_custom.scss] light: [flatly, theme_light_custom.scss]
     css:
       - custom.css
+      
+attachments:
+  - _attachments/custom.js # to make links open in a new tab
       
 editor: visual
 

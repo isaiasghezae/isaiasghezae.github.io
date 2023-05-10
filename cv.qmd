@@ -4,7 +4,7 @@ tbl-colwidths: [25, 75]
 ---
 
 ::: large-text
-[**Full CV**](https://www.dropbox.com/s/ba1m79dtsnom4no/Ghezae_CV.pdf?dl=0)
+[**Full CV**](https://www.dropbox.com/s/ba1m79dtsnom4no/Ghezae_CV.pdf?dl=0){target="_blank"}
 :::
 
 ### Education
