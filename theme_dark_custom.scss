@@ -1,9 +1,17 @@
 /*-- scss:defaults --*/
 // Base document colors
+$body-bg: #222222;
+$body-color: white;
+//$link-color: #75AADB;
+$navbar-bg: #000000;
+
+/* Old Setup
+// Base document colors
 $body-bg: #181818;
 $body-color: white;
 $link-color: #75AADB;
 $navbar-bg: #004E4F;
+*/
 
 // Code blocks
 $code-block-bg-alpha: -.8;
