@@ -5,19 +5,13 @@ title: "Academic Work"
 My research interests are broadly focused on `moral and political psychology`, with an emphasis on how group motivations may influence these processes. I have secondary interests in `cultural evolution` and `complex systems`, especially as it relates to the study of belief systems. To investigate these topics, I use methods from social psychology, cognitive science, and computational social science.
 
 ::: large-text
-[**Preprints**]{style="color:#e6168a"}
+[**Publications / Working Papers**]{style="color:#e6168a"}
 :::
 
 ::: {layout="[1.5, 2.5]" layout-valign="center"}
 ![](./files/work/stb.png){fig-alt="Decorative text" width="300"}
 
 **Ghezae, I.**, Yang, F., & Yu, H. Folk intuitions of moral standing to blame. [Online](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4109940){target="_blank"}.
-:::
-
-::: {layout="[1.5, 2.5]" layout-valign="center"}
-![](./files/work/sdc2.png){fig-alt="Decorative text" width="300"}
-
-Voelkel, J. G.\*, Stagnaro, M. N.\*, Chu, J.\*, Pink, S. L., Mernyk, J. S., Redekopp, C., **Ghezae, I.**, Cashman, M., Strengthening Democracy Challenge Finalists, Druckman, J., Rand, D. G., & Willer, R. Megastudy identifying effective interventions to strengthen Americans' democratic attitudes. [Online](https://osf.io/y79u5/){target="_blank"}.
 :::
 
 ::: {layout="[1.5, 2.5]" layout-valign="center"}
@@ -83,6 +77,12 @@ plot_ly() %>%
   )
 
 ```
+:::
+
+::: {layout="[1.5, 2.5]" layout-valign="center"}
+![](./files/work/sdc.png){fig-alt="Decorative text" width="300"}
+
+Voelkel, J. G.\*, Stagnaro, M. N.\*, Chu, J.\*, Pink, S. L., Mernyk, J. S., Redekopp, C., **Ghezae, I.**, Cashman, M., Strengthening Democracy Challenge Finalists, Druckman, J., Rand, D. G., & Willer, R. Megastudy identifying effective interventions to strengthen Americans' democratic attitudes. [Online](https://osf.io/y79u5/){target="_blank"}.
 :::
 
 ::: large-text
