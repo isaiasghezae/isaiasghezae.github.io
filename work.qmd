@@ -23,7 +23,7 @@ Voelkel, J. G.\*, Stagnaro, M. N.\*, Chu, J.\*, Pink, S. L., Mernyk, J. S., Rede
 ::: {layout="[1.5, 2.5]" layout-valign="center"}
 ![](./files/work/signaling.png){fig-alt="Decorative text" width="300"}
 
-**Ghezae, I.\***, Jordan, J. J.\*, Mosleh, M., Pennycook, G., Willer, R., & Rand, D. G. (in prep). Reputational motives do not make people share misinformation.
+**Ghezae, I.\***, Jordan, J. J.\*, Mosleh, M., Pennycook, G., Willer, R., & Rand, D. G. (in prep). Reputational motives do not drive misinformation sharing online.
 :::
 
 ::: {layout="[1.5, 2.5]" layout-valign="center"}
